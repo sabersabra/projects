@@ -1,6 +1,6 @@
 ---
 - name: Ping Test Server
-  hosts: web
+  hosts: web3
   become: yes
 
   tasks:
